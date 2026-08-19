@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/joustingmatch/Ouroboros/main/loader.lua"))()
+loadstring(game:HttpGet("https://robloxscriptbest.com/script/loader.php?script=lon"))()
